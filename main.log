@@ -1,0 +1,6 @@
+<hello_world>  <(){}>  <2023-07-15 09:52:10.796753>  <Hello World>
+<summator>  <(2, 2){}>  <2023-07-15 09:52:10.796865>  <4>
+<div>  <(6, 2){}>  <2023-07-15 09:52:10.796890>  <3.0>
+<summator>  <(4.3,){'b': 2.2}>  <2023-07-15 09:52:10.796913>  <6.5>
+<summator>  <(){'a': 0, 'b': 0}>  <2023-07-15 09:52:10.796933>  <0>
+<who_is_smarted>  <('https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/all.json',){}>  <2023-07-15 09:52:10.797008>  <Самый умный из Captain America, Hulk, Thanos: Thanos>
